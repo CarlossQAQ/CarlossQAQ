@@ -42,5 +42,7 @@ Check out my latest thoughts, experiments, and projects on my personal blog:
 🔗 [carlossqaq.github.io](https://carlossqaq.github.io)
 
 ---
+## *Studying now*
+ 🔗 [Efficient ML MIT](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 
-Let me know if you'd like to add dynamic widgets like recent blog posts, GitHub activity streaks, or even a typing animation header. I can help you level it up even more!
+
