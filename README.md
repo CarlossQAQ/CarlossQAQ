@@ -11,36 +11,36 @@
 
 *I'm a passionate developer and researcher focused on:*
 
-- *Machine Learning & Deep Learning*
-- *Optimization Algorithms & Efficiency Tuning*
-- *Python Enthusiast — especially in Google Colab*
-- *Exploring better architectures for scalable and interpretable models*
+- 🤖 *Machine Learning & Deep Learning*
+- ⚙️ *Optimization Algorithms & Efficiency Tuning*
+- 🐍 *Python Enthusiast — especially in Google Colab*
+- 🧠 *Exploring better architectures for scalable and interpretable models*
+- 📐 *Interested in Mathematical Modeling and algorithmic thinking*
 
 ---
 
 ## 🧪 *Currently Exploring*
 
-- *Gradient-based optimization techniques (Adam, RMSprop, L-BFGS)*
-- *Neural architecture search & pruning*
-- *Efficient training pipelines in Colab*
-- *Code modularity and reproducibility in ML workflows*
+- 🔍 *Gradient-based optimization techniques (Adam, RMSprop, L-BFGS)*
+- 🧬 *Neural architecture search & pruning*
+- 🧹 *Efficient training pipelines in Colab*
+- 🧩 *Code modularity and reproducibility in ML workflows*
 
 ---
 
 ## 🛠️ *Tech Stack*
 
-*Python, TensorFlow, PyTorch, Colab, Jupyter, Git, VS Code*
+| 💻 Languages & Frameworks | 🧰 Tools & Platforms | 🎯 Interests |
+|--------------------------|---------------------|--------------|
+| *Python* 🐍<br>*Java* ☕<br>*TensorFlow* 🔶<br>*PyTorch* 🔥 | *Google Colab* 📒<br>*Jupyter Notebook* 📓<br>*Git* 🧵<br>*VS Code* 🖥️<br>*GitLab* 🐙<br>*LeetCode* 🧠 | *Mathematical Modeling* 📐<br>*System Architecture* 🏗️<br>*Efficiency Optimization* ⚡ |
 
 ---
 
-## 📊 *GitHub Stats*
+## 📚 *Blog*
 
-![CarlossQAQ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlossQAQ&show_icons=true&theme=radical)
+Check out my latest thoughts, experiments, and projects on my personal blog:  
+🔗 [carlossqaq.github.io](https://carlossqaq.github.io)
 
 ---
 
-## 🌸 *Anime Mood*
-
-![Anime](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
-
-> *“Optimizing models by day, watching anime by night.”*
+Let me know if you'd like to add dynamic widgets like recent blog posts, GitHub activity streaks, or even a typing animation header. I can help you level it up even more!
