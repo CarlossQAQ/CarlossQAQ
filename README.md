@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Carlosss Hu!
+I'm currently studying Efficient ML.
+### 💼 Skills
+- 🔧 Python JAVA
+- 🧠 NLP & Spider
+- 📊 Mathmatical modeling
+- CV _YOLOV8 ETC
 
-<!--
-**CarlossQAQ/CarlossQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Current Focus
+- Efficient ML
+- optimization
+- Mathmatical modeling
 
-Here are some ideas to get you started:
+### 📈 Blog
+![Le's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical](https://carlossqaq.github.io/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
