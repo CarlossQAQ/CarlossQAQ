@@ -39,7 +39,7 @@
 ## 📚 *Blog*
 
 Check out my latest thoughts, experiments, and projects on my personal blog:  
-🔗 [carlossqaq.github.io](https://carlossqaq.github.io)
+🔗 [carlossqaq.github.io](https://ada-c38f0bb79f.github.io/)
 
 ---
 ## *Studying now*
